@@ -40,4 +40,5 @@ Write COM component, that can be registered in MS Windows 7/8/10 64-bit. It shou
 Compile with VC 2017 + boost_1_65_1
 
 Register component: regsvr32 ShellExtension.dll
+
 Unregister component: regsvr32 /u ShellExtension.dll
